@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250432546101",
+    "firebase_url": "https://notfall-81179.firebaseio.com",
+    "project_id": "notfall-81179",
+    "storage_bucket": "notfall-81179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250432546101:android:cc34f330b3b65758",
+        "android_client_info": {
+          "package_name": "com.notfall.carfai.notfall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250432546101-qtmomki7skc0miriomgn50quj7k22vds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notfall.carfai.notfall",
+            "certificate_hash": "c2a90f44c7744457bdd98711da336395bcd47342"
+          }
+        },
+        {
+          "client_id": "250432546101-59q870r9fmsmhl6sbunlbs47355nsa84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJLCbggcq4YrgXdm6IyHDJdLvbos7dHro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250432546101-59q870r9fmsmhl6sbunlbs47355nsa84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

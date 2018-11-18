@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotFall</string>
+    <string name="enter_Correo">Correo</string>
+    <string name="enter_Contraseña">Contraseña</string>
+    <string name="enter_Validar">Validar</string>
+    <string name="enter_Login">Log in</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
